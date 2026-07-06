@@ -1,0 +1,6 @@
+{
+  "appId": "com.karkoon.app",
+  "appName": "Karkoon",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
